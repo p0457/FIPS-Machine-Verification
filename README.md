@@ -1,2 +1,6 @@
 # FIPS-Machine-Verification
-Verifies a machine for FIPS. Uses .NET 5, and is only tested on Windows.
+
+This program, which works only on Windows:
+
+- Checks to see if FIPS Mode is enabled
+- If enabled, it will output the supported assemblies
